@@ -161,10 +161,6 @@ Collects all system metrics using threads.
 
 Methods return `None` if a metric cannot be retrieved. Errors are logged using the `logging` module.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for suggestions.
-
 ## License
 
 This project is licensed under the MIT License.
